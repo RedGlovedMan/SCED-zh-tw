@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "fortune_and_folly",
+  "GMNotes": "scenarios/fortune_and_folly.json",
   "GUID": "0dce91",
   "Grid": true,
   "GridProjection": false,

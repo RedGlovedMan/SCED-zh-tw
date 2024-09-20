@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4547": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
       "NumHeight": 5,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Ally. Government.",
+  "Description": "盟友. 政府.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/JohnJessieBurke.cfb393.gmnotes",
   "GUID": "cfb393",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "John \u0026 Jessie Burke",
+  "Nickname": "約翰＆傑西·伯克",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

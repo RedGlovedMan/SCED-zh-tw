@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "the_forgotten_age",
+  "GMNotes": "campaigns/forgotten_age.json",
   "GUID": "0bcf19",
   "Grid": true,
   "GridProjection": false,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5411": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/775107869050061525/A759DF697FFB26F0F5B75E116A923E33F88FCA7B/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1011562618093846571/13C76218853EE87123267F8F6BE99206DB40470B/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/5athfmdqbkvgr3hty53ys/cd3208af4b72420896518c21fdfdec9f.jpg?rlkey=n8nivnitnbwgwybtzasm0q91d&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/oepepb3q6rjjo9iau86ab/4bf75c8beb3747c79fec51b539fd7344.jpg?rlkey=lpi9q3jkmza12ao8s7dnl95d0&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "幻夢境.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/Dream-Gate.fa4c1e.gmnotes",
   "GUID": "fa4c1e",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dream-Gate",
+  "Nickname": "夢境之門",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "return_to_notz",
+  "GMNotes": "campaigns/return_to_notz.json",
   "GUID": "56270d",
   "Grid": true,
   "GridProjection": false,

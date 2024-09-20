@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "the_circle_undone",
+  "GMNotes": "campaigns/circle_undone.json",
   "GUID": "63e097",
   "Grid": true,
   "GridProjection": false,

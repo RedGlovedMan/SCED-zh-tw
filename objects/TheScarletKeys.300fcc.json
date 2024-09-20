@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "the_scarlet_keys",
+  "GMNotes": "campaigns/the_scarlet_keys.json",
   "GUID": "300fcc",
   "Grid": true,
   "GridProjection": false,
@@ -56,7 +56,7 @@
   "Transform": {
     "posX": 20.6,
     "posY": 1.481,
-    "posZ": -65,
+    "posZ": -78,
     "rotX": 0,
     "rotY": 270,
     "rotZ": 0,

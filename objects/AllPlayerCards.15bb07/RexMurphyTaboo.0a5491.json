@@ -14,15 +14,15 @@
   "CustomDeck": {
     "143": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2414565357243142126/51E7BDBC4F3E68487E896E867200B6C9310ADF3D/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2414565357243142219/EB53C43AB498B112B5EA2C488F0EB1543CD43DE5/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/iosmeqaikf5f3b2gihpw3/494da1de24f848998fe7b84fd477447f.jpg?rlkey=7yn730iuutfd56upeezv5o07f&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ltpnp4dcktyrzkzp2p8xd/2f9b2961f29249d08bfc0d506a263e84.jpg?rlkey=kzqjbtuyzfvies1ompjxo6lgk&dl=0",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "The Reporter",
+  "Description": "記者.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/RexMurphyTaboo.0a5491.gmnotes",
   "GUID": "0a5491",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "CardCustom",
-  "Nickname": "Rex Murphy (Taboo)",
+  "Nickname": "雷克斯·墨菲 (Taboo)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

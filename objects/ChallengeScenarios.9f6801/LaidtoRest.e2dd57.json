@@ -33,7 +33,7 @@
   },
   "Description": "Challenge Scenario",
   "DragSelectable": true,
-  "GMNotes": "challenge_laid_to_rest",
+  "GMNotes": "scenarios/challenge_laid_to_rest.json",
   "GUID": "e2dd57",
   "Grid": true,
   "GridProjection": false,

@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "the_path_to_carcosa",
+  "GMNotes": "campaigns/path_to_carcosa.json",
   "GUID": "aca04c",
   "Grid": true,
   "GridProjection": false,

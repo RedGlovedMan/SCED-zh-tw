@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3742": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/960860341956230050/FB390FF37A182334B982AA19488275BB5C6E2219/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/960860341956229149/FC980D306FA8FE74C552981167CBDF4305821B31/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/oqhpu4ytj8679a8puhznd/c1a38992c0fb483b9117a97261786fda.jpg?rlkey=jd2qelwbptmqnhtga8hz1gmvx&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/4p6soeyrxcdin28sedchx/7975b18614ea42f4a14b49a12b4b1e25.jpg?rlkey=wadplesx6rdgi2ef38y6nibk1&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "道具. 勇氣.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/Sophie.4f46ad.gmnotes",
   "GUID": "4f46ad",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Sophie",
+  "Nickname": "索菲",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

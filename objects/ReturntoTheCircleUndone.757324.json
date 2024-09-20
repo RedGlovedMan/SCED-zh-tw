@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "return_to_tcu",
+  "GMNotes": "campaigns/return_to_tcu.json",
   "GUID": "757324",
   "Grid": true,
   "GridProjection": false,

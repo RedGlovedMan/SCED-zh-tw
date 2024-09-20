@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "return_to_tfa",
+  "GMNotes": "campaigns/return_to_tfa.json",
   "GUID": "479ff3",
   "Grid": true,
   "GridProjection": false,

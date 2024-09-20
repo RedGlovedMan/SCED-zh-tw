@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4477": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025946328/561232524C8EAA4B4371B28652F78969E6ED6FFB/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/h2siz0ehxtawoslurc23u/6093e814c0814e8f83fc4dec097f84a9.jpg?rlkey=r311klfvtkj1yhzmd53u00iel&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "祝福. 幸運.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/AGlimmerofHope.f21109.gmnotes",
   "GUID": "f21109",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "A Glimmer of Hope",
+  "Nickname": "希望微光",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

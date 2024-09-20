@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5528": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132672810/20E21AC471D7E5E1545F0EAE635A093718D4C7CF/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132672550/E5E1C8EE53C7692025E048F0A04BE98D6FA17111/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tpgzo9fi0utbllg9hat8r/2442b2ac216d44539c1ba5a260a0e02c.jpg?rlkey=scbsog747sd9fl6t6dgekx93g&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/qzngsbzho1jhjxk7fclx3/90e50adbc95e426186d04cca2f979dd0.jpg?rlkey=6kbj0jbletdgogq2wzxnbe4jp&dl=0",
       "NumHeight": 2,
       "NumWidth": 3,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Sailor",
+  "Description": "漂泊者.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/SilasMarsh.3f92cf.gmnotes",
   "GUID": "3f92cf",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Silas Marsh",
+  "Nickname": "賽拉斯‧馬什",
   "SidewaysCard": true,
   "Snap": true,
   "States": {
@@ -57,15 +57,15 @@
       "CustomDeck": {
         "2724": {
           "BackIsHidden": true,
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1011562618093845464/80687C9319FA2015F3D9F7CBEB4C55FBF045B27D/",
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1011562618093845971/A678BD374EC4DE672206B5EF7EB57DC885BC839C/",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/qrmbkruxk6jnimfsr82y0/502c2c5e4e394b56b98a6f2db62d5df2.jpg?rlkey=wxap3vtslrwj2wbxm1ii3aohb&dl=0",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/tez303cpn6bw48l7shgmh/172ff84a3b4e4dfdb33ccdac0af12f9d.jpg?rlkey=4bauyoavrpcpalcbhqfif629m&dl=0",
           "NumHeight": 7,
           "NumWidth": 10,
           "Type": 0,
           "UniqueBack": true
         }
       },
-      "Description": "The Sailor",
+      "Description": "漂泊者.",
       "DragSelectable": true,
       "GMNotes": "{\n  \"id\": \"07005\",\n  \"alternate_ids\": [\n    \"98013\"\n  ],\n  \"type\": \"Investigator\",\n  \"class\": \"Survivor\",\n  \"traits\": \"Drifter.\",\n  \"willpowerIcons\": 2,\n  \"intellectIcons\": 2,\n  \"combatIcons\": 4,\n  \"agilityIcons\": 4,\n  \"cycle\": \"The Innsmouth Conspiracy\",\n  \"extraToken\": \"Reaction\",\n  \"signatures\": [\n    {\n      \"07014\": 1,\n      \"07015\": 1,\n      \"07016\": 1,\n      \"98014\": 1,\n      \"98015\": 1\n    }\n  ]\n}\n",
       "GUID": "cd3308",
@@ -80,7 +80,7 @@
       "LuaScriptState": "",
       "MeasureMovement": false,
       "Name": "Card",
-      "Nickname": "Silas Marsh (promo version)",
+      "Nickname": "賽拉斯‧馬什",
       "SidewaysCard": true,
       "Snap": true,
       "Sticky": true,

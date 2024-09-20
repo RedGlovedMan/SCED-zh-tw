@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3790": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2424696374430578722/34A938F2AE5FCEDEF07D645346F9A6570FFF98E4/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/851ix5xgkl40pjmjor3b3/679ed411e6bd4267b081c3ec46756445.jpg?rlkey=44l1mlxyggt10sggyqif0ra7w&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Gateway to Acheron",
+  "Description": "儀式.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/ArchiveofConduits4.88ff66.gmnotes",
   "GUID": "88ff66",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Archive of Conduits (4)",
+  "Nickname": "通路檔案 (4)",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

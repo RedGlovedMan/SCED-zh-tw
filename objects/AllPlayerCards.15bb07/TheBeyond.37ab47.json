@@ -14,15 +14,15 @@
   "CustomDeck": {
     "8471": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2149964195986881059/864F6EBBD2900ED6D145B8AF12F2F8C180375C83/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2149964195986880989/13172BC914A0D729B4EFD9845FA9FDFCAB6F77F7/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/4nr7ec6afvf6cwtklakwz/6e01909827264c09aba26444e8f4571f.jpg?rlkey=gxuo8abuukh64pcwm8sqv9ik2&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/zre6uluufdnzfyon1cyw6/2f0de35ae63741ba8cbbbb9b3744e03c.jpg?rlkey=zv6bootkrqba4u55inyrriqxo&dl=0",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Bleak Netherworld",
+  "Description": "聖堂. 幽靈.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/TheBeyond.37ab47.gmnotes",
   "GUID": "37ab47",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "CardCustom",
-  "Nickname": "The Beyond",
+  "Nickname": "彼端",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

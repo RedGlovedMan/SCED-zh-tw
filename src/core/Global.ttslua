@@ -41,17 +41,17 @@ local hideTitleSplashWaitFunctionId = nil
 
 -- online functionality related variables
 local MOD_VERSION                   = "4.0.0"
-local SOURCE_REPO                   = "https://github.com/Chr1Z93/SCED-downloads/releases/latest/download/"
+local SOURCE_REPO                   = 'https://raw.githubusercontent.com/RedGlovedMan/loadable-objects-zh-tw/main'
 local library, requestObj, modMeta
 local acknowledgedUpgradeVersions   = {}
-local contentToShow                 = "campaign"
+local contentToShow                 = "campaigns"
 local currentListItem               = 1
 local tabIdTable                    = {
-  tab1 = "campaign",
-  tab2 = "scenario",
-  tab3 = "fanmade-campaign",
-  tab4 = "fanmade-scenario",
-  tab5 = "fanmade-playercards"
+  tab1 = "campaigns",
+  tab2 = "scenarios",
+  tab3 = "fanmadeCampaigns",
+  tab4 = "fanmadeScenarios",
+  tab5 = "fanmadePlayerCards"
 }
 
 -- optionPanel data (intentionally not local!)
@@ -77,6 +77,14 @@ local handVisibility                = {}
 ---------------------------------------------------------
 -- data for tokens
 ---------------------------------------------------------
+
+TOKEN_DATA                          = {
+  damage   = { image = "https://steamusercontent-a.akamaihd.net/ugc/1758068501357115146/903D11AAE7BD5C254C8DC136E9202EE516289DEA/", scale = { 0.17, 0.17, 0.17 } },
+  horror   = { image = "https://steamusercontent-a.akamaihd.net/ugc/1758068501357163535/6D9E0756503664D65BDB384656AC6D4BD713F5FC/", scale = { 0.17, 0.17, 0.17 } },
+  resource = { image = "https://steamusercontent-a.akamaihd.net/ugc/1758068501357192910/11DDDC7EF621320962FDCF3AE3211D5EDC3D1573/", scale = { 0.17, 0.17, 0.17 } },
+  doom     = { image = "https://i.imgur.com/EoL7yaZ.png", scale = { 0.17, 0.17, 0.17 } },
+  clue     = { image = "https://steamusercontent-a.akamaihd.net/ugc/1758068501357164917/1D06F1DC4D6888B6F57124BD2AFE20D0B0DA15A8/", scale = { 0.15, 0.15, 0.15 } }
+}
 
 ID_URL_MAP                          = {
   ['blue']    = { name = "Elder Sign", url = 'https://i.imgur.com/nEmqjmj.png' },
@@ -170,7 +178,7 @@ function onLoad(savedData)
 
   -- initialization of loadable objects library (delay to let Navigation Overlay build)
   Wait.time(function()
-    WebRequest.get(SOURCE_REPO .. 'library.json', libraryDownloadCallback)
+    WebRequest.get(SOURCE_REPO .. '/library.json', libraryDownloadCallback)
   end, 1)
 end
 
@@ -373,8 +381,8 @@ function activeRedrawEffect(params)
   end
 
   -- nil handling
-  redrawData.validTokens = redrawData.validTokens or {}
-  redrawData.invalidTokens = redrawData.invalidTokens or {}
+  redrawData.VALID_TOKENS = redrawData.VALID_TOKENS or {}
+  redrawData.INVALID_TOKENS = redrawData.INVALID_TOKENS or {}
 
   -- determine if only some tokens are able to be returned to the bag
   local matchingTokensInPlay = {}
@@ -382,9 +390,9 @@ function activeRedrawEffect(params)
     local tokenName = getReadableTokenName(token.getName())
 
     -- allow valid tokens or not invalid tokens, also allow any token if both lists empty
-    if (redrawData.validTokens[tokenName] ~= nil and isTableEmpty(redrawData.invalidTokens)) or
-        (isTableEmpty(redrawData.validTokens) and not redrawData.invalidTokens[tokenName]) or
-        (isTableEmpty(redrawData.validTokens) and isTableEmpty(redrawData.invalidTokens)) then
+    if (redrawData.VALID_TOKENS[tokenName] ~= nil and isTableEmpty(redrawData.INVALID_TOKENS)) or
+        (isTableEmpty(redrawData.VALID_TOKENS) and not redrawData.INVALID_TOKENS[tokenName]) or
+        (isTableEmpty(redrawData.VALID_TOKENS) and isTableEmpty(redrawData.INVALID_TOKENS)) then
       table.insert(matchingTokensInPlay, token)
     end
   end
@@ -462,12 +470,12 @@ function returnAndRedraw(_, tokenGUID)
   chaosTokens[indexOfReturnedToken] = drawChaosToken({
     mat = mat,
     drawAdditional = true,
-    tokenType = redrawData.drawSpecificToken, -- currently only used for Nkosi Mabati
+    tokenType = redrawData.DRAW_SPECIFIC_TOKEN, -- currently only used for Nkosi Mabati
     takeParameters = takeParameters
   })
 
   -- remove these tokens from the bag
-  if redrawData.returnToPool then
+  if redrawData.RETURN_TO_POOL then
     -- let the bless/curse manager handle these
     if tokenName == "Bless" or tokenName == "Curse" then
       blessCurseManagerApi.removeToken(tokenName)
@@ -1043,7 +1051,7 @@ function placeholder_download(params)
     return 1
   end
 
-  local url = SOURCE_REPO .. params.filename .. ".json"
+  local url = SOURCE_REPO .. '/' .. params.url
   requestObj = WebRequest.get(url, function(request) contentDownloadCallback(request, params) end)
   startLuaCoroutine(Global, 'downloadCoroutine')
 end
@@ -1089,7 +1097,7 @@ function coroutineDownloadAll()
     broadcastToAll("Downloading " .. contentType .. "...")
     local contained = ""
     for _, params in ipairs(objectList) do
-      local request = WebRequest.get(SOURCE_REPO .. params.filename .. ".json", function() end)
+      local request = WebRequest.get(SOURCE_REPO .. '/' .. params.url, function() end)
       local start = os.time()
       while true do
         if request.is_done then
@@ -1164,7 +1172,7 @@ function onClick_spawnPlaceholder(player)
   placeholder.setColorTint({ 1, 1, 1, 71 / 255 })
   placeholder.setName(item.name)
   placeholder.setDescription("by " .. (item.author or "Unknown"))
-  placeholder.setGMNotes(item.filename)
+  placeholder.setGMNotes(item.url)
   placeholder.setLuaScript(dummy.getLuaScript())
   Player.getPlayers()[1].pingTable(spawnPos)
 
@@ -1303,22 +1311,36 @@ function updatePreviewWindow()
 end
 
 -- formats the json response from the webrequest into a key-value lua table
-function formatLibrary(jsonResponse)
+-- strips the prefix from the community content items
+function formatLibrary(json_response)
   library = {}
+  library["campaigns"] = json_response.campaigns
+  library["scenarios"] = json_response.scenarios
+  library["extras"] = json_response.extras
+  library["fanmadeCampaigns"] = {}
+  library["fanmadeScenarios"] = {}
+  library["fanmadePlayerCards"] = {}
 
-  for _, item in ipairs(jsonResponse["content"]) do
-    local contentType = item["type"]
-
-    -- add "fanmade" for unofficial content
-    if item["author"] ~= "Fantasy Flight Games" then
-      contentType = "fanmade-" .. contentType
+  for _, item in ipairs(json_response.community) do
+    local identifier = nil
+    for str in string.gmatch(item.name, "([^:]+)") do
+      if not identifier then
+        -- grab the first part to know the content type
+        identifier = str
+      else
+        -- update the name without the content type
+        item.name = str
+        break
+      end
     end
 
-    -- initialize subtable
-    if library[contentType] == nil then
-      library[contentType] = {}
+    if identifier == "Fan Investigators" then
+      table.insert(library["fanmadePlayerCards"], item)
+    elseif identifier == "Fan Campaign" then
+      table.insert(library["fanmadeCampaigns"], item)
+    elseif identifier == "Fan Scenario" then
+      table.insert(library["fanmadeScenarios"], item)
     end
-    table.insert(library[contentType], item)
   end
 end
 
@@ -1399,15 +1421,15 @@ function contentDownloadCallback(request, params)
 
   -- if position is undefined, get empty position
   if not spawnTable.position then
+    spawnTable.rotation = { 0, 270, 0 }
+
     local pos = getValidSpawnPosition()
-    if not pos then
+    if pos then
+      spawnTable.position = pos
+    else
       broadcastToAll("Please make sure there's space in the upper middle of the table and try again.", "Red")
       return
     end
-
-    spawnTable.position = pos
-    spawnTable.rotation = { 0, 270, 0 }
-  else
   end
 
   -- if spawned from menu, move the camera and/or ping the table
@@ -1444,9 +1466,13 @@ function getValidSpawnPosition()
   local potentialSpawnPositionY = 1.5
   local potentialSpawnPositionZ = { 35, 21, 7, -7, -21, -35 }
 
-  for _, posX in ipairs(potentialSpawnPositionX) do
-    for _, posZ in ipairs(potentialSpawnPositionZ) do
-      local pos = Vector(posX, potentialSpawnPositionY, posZ)
+  for i, posX in ipairs(potentialSpawnPositionX) do
+    for j, posZ in ipairs(potentialSpawnPositionZ) do
+      local pos = {
+        x = posX,
+        y = potentialSpawnPositionY,
+        z = posZ,
+      }
       if checkPositionForContentSpawn(pos) then
         return pos
       end
@@ -1456,10 +1482,11 @@ function getValidSpawnPosition()
 end
 
 -- checks whether something is in the specified position
--- first hit is the table surface, additional hits means something is there
----@return boolean: True if empty
+-- returns true if empty
 function checkPositionForContentSpawn(checkPos)
   local searchResult = searchLib.atPosition(checkPos)
+
+  -- first hit is the table surface, additional hits means something is there
   return #searchResult == 1
 end
 
@@ -1470,9 +1497,9 @@ function libraryDownloadCallback(request)
     return
   end
 
-  local jsonResponse = nil
-  if pcall(function() jsonResponse = JSON.decode(request.text) end) then
-    formatLibrary(jsonResponse)
+  local json_response = nil
+  if pcall(function() json_response = JSON.decode(request.text) end) then
+    formatLibrary(json_response)
     updateDownloadItemList()
   else
     print('error parsing downloaded library')
@@ -1895,7 +1922,7 @@ end
 
 -- grabs the latest mod version and release notes from GitHub (called onLoad())
 function getModVersion()
-  WebRequest.get(SOURCE_REPO .. 'modversion.json', compareVersion)
+  WebRequest.get(SOURCE_REPO .. '/modversion.json', compareVersion)
 end
 
 -- compares the modversion with GitHub and possibly shows the update notification
@@ -2038,20 +2065,24 @@ end
 ---@param tokenType string Type of token to spawn (template needs to be in source bag)
 ---@param tokenValue number Value to set the damage/horror to
 function TokenManager.spawnCounterToken(card, tokenType, tokenValue, shiftDown)
+  if tokenValue < 1 or tokenValue > 50 then return end
+
   TokenManager.spawnToken({
     position = card.positionToWorld(tokenOffsets[1][1] + Vector(0, 0, shiftDown)),
     tokenType = tokenType,
     rotation = card.getRotation(),
-    scriptstate = tokenValue
+    callbackName = "updateStateToken",
+    callbackParams = tokenValue
   })
 end
 
-function TokenManager.spawnResourceCounterToken(card, tokenValue)
+function TokenManager.spawnResourceCounterToken(card, tokenCount)
   TokenManager.spawnToken({
     position = card.positionToWorld(card.positionToLocal(card.getPosition()) + Vector(0, 0.2, -0.5)),
     tokenType = "resourceCounter",
     rotation = card.getRotation(),
-    scriptstate = tokenValue
+    callbackName = "updateTokenValue",
+    callbackParams = tokenCount
   })
 end
 
@@ -2126,7 +2157,6 @@ function TokenManager.spawnToken(params)
   local tokenType = params.tokenType
   local callbackName = params.callbackName
   local callbackParams = params.callbackParams
-  local scriptstate = params.scriptstate
 
   -- initialize data table
   local spawnData = { position = position }
@@ -2156,11 +2186,6 @@ function TokenManager.spawnToken(params)
 
   tokenTemplate.Nickname = ""
   spawnData.data = tokenTemplate
-
-  -- maybe directly update the script state of the token
-  if scriptstate then
-    spawnData.data["LuaScriptState"] = tostring(scriptstate)
-  end
 
   -- get rotation for the token
   -- Take ONLY the Y-value for rotation, so we don't flip the token coming out of the bag
@@ -2464,6 +2489,10 @@ function updateStateToken(obj, stateID)
   if stateID ~= nil and stateID ~= 1 then
     obj.setState(stateID)
   end
+end
+
+function updateTokenValue(obj, newVal)
+  obj.call("updateVal", newVal)
 end
 
 ---------------------------------------------------------

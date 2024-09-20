@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "return_to_tdl",
+  "GMNotes": "campaigns/return_to_tdl.json",
   "GUID": "ce9130",
   "Grid": true,
   "GridProjection": false,

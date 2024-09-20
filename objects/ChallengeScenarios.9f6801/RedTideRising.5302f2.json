@@ -33,7 +33,7 @@
   },
   "Description": "Challenge Scenario",
   "DragSelectable": true,
-  "GMNotes": "challenge_red_tide_rising",
+  "GMNotes": "scenarios/challenge_red_tide_rising.json",
   "GUID": "5302f2",
   "Grid": true,
   "GridProjection": false,

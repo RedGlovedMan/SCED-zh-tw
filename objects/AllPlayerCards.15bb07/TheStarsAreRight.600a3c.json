@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4437": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025945336/04E36F64C2CBE1B4905FF44A869C75EC52CB3A56/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/s0i9an5u39v8n44w3e586/5ab3adf84693447dbf54dff3db4262ce.jpg?rlkey=cx3ld62xuevbyy88thpcrc90o&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "預言.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/TheStarsAreRight.600a3c.gmnotes",
   "GUID": "600a3c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Stars Are Right",
+  "Nickname": "群星正確之時",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

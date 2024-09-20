@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3791": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1814412497119474921/33ED44071C8BCA7379B0E8031F47169B73639E37/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/blis28143friwtplaon9e/da698aacf91b4fdfb17d7be19ef5a54b.jpg?rlkey=ee7ows9iae18m9b6ep76ooieo&dl=0",
       "NumHeight": 6,
       "NumWidth": 9,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "臨時製品. 陷阱.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/MakeshiftTrap.aa897f.gmnotes",
   "GUID": "aa897f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Makeshift Trap",
+  "Nickname": "臨時陷阱",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2303": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/960860341956214701/377534905048B61E88314A81F482DD31D6B54038/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/eyml5scgfslnbe2eerwe9/7cc68326ed814953aefcafb9357bd0fa.jpg?rlkey=dkd9ce7t6924uq9584bvodi0p&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "法術.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/BlindingLight.30f860.gmnotes",
   "GUID": "30f860",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Blinding Light",
+  "Nickname": "眩光一閃",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

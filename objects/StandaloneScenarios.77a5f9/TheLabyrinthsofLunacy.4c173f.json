@@ -33,7 +33,7 @@
   },
   "Description": "Beyond the Veil",
   "DragSelectable": true,
-  "GMNotes": "labyrinths_of_lunacy",
+  "GMNotes": "scenarios/labyrinths_of_lunacy.json",
   "GUID": "4c173f",
   "Grid": true,
   "GridProjection": false,

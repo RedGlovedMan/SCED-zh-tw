@@ -22,7 +22,7 @@
     "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/949599153663403796/E6FC1B82A5BC3893CFDCDF3CD580D05E9218AE52/",
     "WidthScale": 0
   },
-  "Description": "Left- or right-click to change the value or type numbers while hovering.",
+  "Description": "Left click - Increase\nRight click - Decrease",
   "DragSelectable": true,
   "GMNotes": "",
   "GUID": "468e88",
@@ -36,7 +36,6 @@
   "LuaScript": "require(\"core/GenericCounter\")",
   "LuaScriptState": "0",
   "MeasureMovement": false,
-  "Memo": "horror",
   "Name": "Custom_Token",
   "Nickname": "Horror",
   "Snap": true,
@@ -48,7 +47,7 @@
     "posZ": 7.229,
     "rotX": 0,
     "rotY": 280,
-    "rotZ": 180,
+    "rotZ": 0,
     "scaleX": 0.3,
     "scaleY": 1,
     "scaleZ": 0.3

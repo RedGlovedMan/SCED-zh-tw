@@ -33,7 +33,7 @@
   },
   "Description": "Scenario Pack",
   "DragSelectable": true,
-  "GMNotes": "war_of_the_outer_gods",
+  "GMNotes": "scenarios/war_of_the_outer_gods.json",
   "GUID": "fc7674",
   "Grid": true,
   "GridProjection": false,

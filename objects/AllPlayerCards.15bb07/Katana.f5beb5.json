@@ -14,15 +14,15 @@
   "CustomDeck": {
     "9173": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2424696374430632272/9A953338B599473C1631AA82F75004CE941DA8B0/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/zxjwwfjsue6u3jp49t59k/f3282eefd58d491f8f6625f4823200fb.jpg?rlkey=7y7a53et80q9d8tdkyxa883jh&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "道具. 武器. 近戰.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/Katana.f5beb5.gmnotes",
   "GUID": "f5beb5",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Katana",
+  "Nickname": "武士刀",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

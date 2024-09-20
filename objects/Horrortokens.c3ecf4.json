@@ -11,14 +11,14 @@
     "r": 0.19248
   },
   "ContainedObjects_order": [
-    "Horror.36be72"
+    "Custom_Token.36be72"
   ],
   "ContainedObjects_path": "Horrortokens.c3ecf4",
   "CustomMesh": {
     "CastShadows": true,
     "ColliderURL": "",
     "Convex": true,
-    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/2505779553882482465/D5E50127E1B511C7944940D62586973A66F87046/",
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1758068501357109766/6D35F3D98A4C89696895FACA788F54005B1688D3/",
     "MaterialIndex": 1,
     "MeshURL": "https://pastebin.com/raw/ALrYhQGb",
     "NormalURL": "",

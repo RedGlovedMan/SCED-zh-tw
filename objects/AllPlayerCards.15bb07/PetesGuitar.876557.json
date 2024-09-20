@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3811": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2021604542994812442/CC009EA96D868F7ED096DF8877B0416EE12A6D14/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/rfohl0hl1srylwamrzcef/e73332898ddb493fbaad30f9192d9957.jpg?rlkey=27gttz4xevo3xlcrseswl2n3g&dl=0",
       "NumHeight": 2,
       "NumWidth": 2,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "道具. 樂器.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/PetesGuitar.876557.gmnotes",
   "GUID": "876557",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Pete's Guitar",
+  "Nickname": "皮特的吉他",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

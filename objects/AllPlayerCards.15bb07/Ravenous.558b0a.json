@@ -14,15 +14,15 @@
   "CustomDeck": {
     "7834": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2042998544452419990/9A769754F1A76469A5C4A25DDEB84B92C9D93CAA/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2042998544452416622/99F2F8C07563017227575133591A2111C15180C6/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/slhfi9qfdbkm7xij2snj0/22e2e57d91c0438587d41b416dacdcd8.jpg?rlkey=1nel2uy4o8ix34xfexz81vto1&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/e7jia34yhn0u7goeb3cza/51be9be12bf24517ac36aa487c82104a.jpg?rlkey=vtc63agsgbv2lvp5p4dh6xjxv&dl=0",
       "NumHeight": 2,
       "NumWidth": 2,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "(Un)-Controlled Hunger",
+  "Description": "才能.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/Ravenous.558b0a.gmnotes",
   "GUID": "558b0a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Ravenous",
+  "Nickname": "飢腸轆轆",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

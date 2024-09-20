@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2702": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1655599718154537387/9BBCF9ACFA26E3C0649434C832E5681AB731A77B/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1655599718154536333/92BABC93BFBC5E1DA2C2A7B5EA5E62151E0DE3D7/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/k02k3kk3h35f07bcczm4a/c9069b5ce933455c92caca08cbfff3b9.jpg?rlkey=ewjm46hpc2orcdlig67mgy8a8&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/hvaamyla3zjyiwqmi9fxo/76e519af47b04ae38d6c10eed744a990.jpg?rlkey=28wd21aidagl75b6pq5l195zt&dl=0",
       "NumHeight": 2,
       "NumWidth": 3,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Writer",
+  "Description": "Clairvoyant.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/GloriaGoldberg.571596.gmnotes",
   "GUID": "571596",

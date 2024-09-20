@@ -33,7 +33,7 @@
   },
   "Description": "Challenge Scenario",
   "DragSelectable": true,
-  "GMNotes": "challenge_bad_blood",
+  "GMNotes": "scenarios/challenge_bad_blood.json",
   "GUID": "451eaa",
   "Grid": true,
   "GridProjection": false,

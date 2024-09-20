@@ -33,7 +33,7 @@
   },
   "Description": "Scenario Pack",
   "DragSelectable": true,
-  "GMNotes": "machinations_through_time",
+  "GMNotes": "scenarios/machinations_through_time.json",
   "GUID": "3c4f3c",
   "Grid": true,
   "GridProjection": false,

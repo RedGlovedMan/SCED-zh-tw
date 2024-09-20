@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2664": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1874087305860121579/39578AC78E34DAA169AB4DE4246BB1E002528B8C/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2021605474902965618/1DA915D6106D951592457701CBA262B73CBEDE6B/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/p5tu8c0n4w3532jh8qlwf/efa2bd9fb4f14883b23786ae2874fb43.jpg?rlkey=m0odt7pwyosp68fcgfyfvp3sq&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/kgw1qikga2xdhiyy4xuan/fd9049e4f1ca4953bbb1fd60d7c86b23.jpg?rlkey=274gklzftbqstw594l1fdo8vb&dl=0",
       "NumHeight": 5,
       "NumWidth": 7,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Tychokinetic Implement",
+  "Description": "道具. 遺物.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/DeckofPossibilities.fefdfa.gmnotes",
   "GUID": "fefdfa",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Deck of Possibilities",
+  "Nickname": "命運牌庫",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

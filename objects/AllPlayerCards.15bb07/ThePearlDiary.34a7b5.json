@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5364": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2453969772006048567/4C173CF8E2E2F69C7374D65AAA2D842C048FC792/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/czxyprls4hr69fl1uvec5/1536b14ba92d4339b4c7ab4ecb2c2a6d.jpg?rlkey=689bxhg9nc6s0g45e2viz2scl&dl=0",
       "NumHeight": 5,
       "NumWidth": 8,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "A Grim Account",
+  "Description": "Item. Tome.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/ThePearlDiary.34a7b5.gmnotes",
   "GUID": "34a7b5",

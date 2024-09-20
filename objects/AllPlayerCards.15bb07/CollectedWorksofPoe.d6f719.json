@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4523": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1858293462583875023/F146A60AEF1FBC9B5FC96189BC1894C468C1E811/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ezo65239wgq8xi1937mda/e27d5150bf534161a0f479cb1bde6c20.jpg?rlkey=gb0d5qgxddksm1k9pjbv6njfu&dl=0",
       "NumHeight": 2,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "道具. 書籍.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/CollectedWorksofPoe.d6f719.gmnotes",
   "GUID": "d6f719",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Collected Works of Poe",
+  "Nickname": "愛倫·坡作品集",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

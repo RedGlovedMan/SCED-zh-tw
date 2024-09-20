@@ -12,7 +12,7 @@
   },
   "CustomImage": {
     "CustomToken": {
-      "MergeDistancePixels": 15,
+      "MergeDistancePixels": 5,
       "Stackable": false,
       "StandUp": false,
       "Thickness": 0.1
@@ -22,7 +22,7 @@
     "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/949599153663402915/D881A5A0D8A370851B9A0055DD7834CDCE0F72BE/",
     "WidthScale": 0
   },
-  "Description": "Left- or right-click to change the value or type numbers while hovering.",
+  "Description": "Left click - Increase\nRight click - Decrease",
   "DragSelectable": true,
   "GMNotes": "",
   "GUID": "1f5a0a",
@@ -36,9 +36,8 @@
   "LuaScript": "require(\"core/GenericCounter\")",
   "LuaScriptState": "0",
   "MeasureMovement": false,
-  "Memo": "damage",
   "Name": "Custom_Token",
-  "Nickname": "Damage",
+  "Nickname": "Damage\n",
   "Snap": true,
   "Sticky": true,
   "Tooltip": false,
@@ -48,7 +47,7 @@
     "posZ": 29.089,
     "rotX": 0,
     "rotY": 10,
-    "rotZ": 180,
+    "rotZ": 1,
     "scaleX": 0.3,
     "scaleY": 1,
     "scaleZ": 0.3

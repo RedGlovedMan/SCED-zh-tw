@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2349": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065907887642390/2CC878F26205C80F4B8D69DE3A4433804A31AABF/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065907887640918/BF3A963B745EF2047ABDFC524AEE4EA0145A04F4/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/5ur09yatyr1l4ccy2uip1/695ef34deb8f41179edfeabd352f060f.jpg?rlkey=x585kdw9xx28iaesilbga6qg4&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/kh1hpjh38uo0rhx9vt09d/9cd95d95c2994915a85f070406e48a16.jpg?rlkey=0yiyxxqb2i8qeiaukkp4rvy0c&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Boxer",
+  "Description": "罪犯. 監守.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/NathanielCho.65588a.gmnotes",
   "GUID": "65588a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Nathaniel Cho",
+  "Nickname": "納撒尼爾·曹",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

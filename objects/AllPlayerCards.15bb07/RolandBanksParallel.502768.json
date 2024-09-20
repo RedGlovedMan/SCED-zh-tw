@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5361": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706761477858/7CDB3552B0A37462AD965C5F67DF81A1EF9D4D60/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706761477165/4BDF4AF6F55103AAA509DC67C952B660B5995707/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/59y3dgibcgr29dkkjlghj/3b4e19859c914fb094579d28bc6c902c.jpg?rlkey=wf23ps73moirnpekky3o5agjk&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/n7gij5q9negu8i2ma6hep/1012e465ac8947068731b47d9fd38c27.jpg?rlkey=affiasphnpjbx4f42rgebqen6&dl=0",
       "NumHeight": 3,
       "NumWidth": 3,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Fed",
+  "Description": "特工. 偵探.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/RolandBanksParallel.502768.gmnotes",
   "GUID": "502768",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Roland Banks (Parallel)",
+  "Nickname": "羅蘭·班克斯",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

@@ -10,16 +10,22 @@
     "g": 0,
     "r": 0
   },
-  "CustomPDF": {
-    "PDFPage": 0,
-    "PDFPageOffset": 0,
-    "PDFPassword": "",
-    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/2369545214002116550/E767153EDE2129C09FA16ECB856C33D3C356C322/"
+  "CustomImage": {
+    "CustomTile": {
+      "Stackable": false,
+      "Stretch": true,
+      "Thickness": 0.1,
+      "Type": 0
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/2460726979851342612/65DEC18BEFEFB1117CFEAAE9AB15B442AE8B557B/",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2460726979851342006/859CF14CE18A4F8C2AFDADA3E69E1B6864154696/",
+    "WidthScale": 0
   },
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "b5ecc1",
+  "GUID": "de7cae",
   "Grid": true,
   "GridProjection": false,
   "Hands": false,
@@ -27,24 +33,24 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": false,
-  "LuaScript": "require(\"util/BuyersGuide\")",
+  "LuaScript": "",
   "LuaScriptState": "",
   "MeasureMovement": false,
-  "Name": "Custom_PDF",
-  "Nickname": "Buyer's Guide",
+  "Name": "Custom_Tile",
+  "Nickname": "Fan-Made Expansion Overview",
   "Snap": true,
   "Sticky": true,
   "Tooltip": true,
   "Transform": {
     "posX": -1.6,
     "posY": 1.481,
-    "posZ": -71.5,
+    "posZ": -75,
     "rotX": 0,
     "rotY": 270,
     "rotZ": 0,
-    "scaleX": 6.5,
+    "scaleX": 13,
     "scaleY": 1,
-    "scaleZ": 6.5
+    "scaleZ": 13
   },
   "Value": 0,
   "XmlUI": ""

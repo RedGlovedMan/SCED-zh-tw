@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5357": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1011562618093845464/80687C9319FA2015F3D9F7CBEB4C55FBF045B27D/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1011562618093845971/A678BD374EC4DE672206B5EF7EB57DC885BC839C/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/qrmbkruxk6jnimfsr82y0/502c2c5e4e394b56b98a6f2db62d5df2.jpg?rlkey=wxap3vtslrwj2wbxm1ii3aohb&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/tez303cpn6bw48l7shgmh/172ff84a3b4e4dfdb33ccdac0af12f9d.jpg?rlkey=4bauyoavrpcpalcbhqfif629m&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Urchin",
+  "Description": "漂泊者.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/WendyAdams.fc1d17.gmnotes",
   "GUID": "fc1d17",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Wendy Adams",
+  "Nickname": "溫蒂·亞當斯",
   "SidewaysCard": true,
   "Snap": true,
   "States": {
@@ -57,15 +57,15 @@
       "CustomDeck": {
         "5874": {
           "BackIsHidden": true,
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1856052392800108622/9BA9D571CE81D39DDED8F6F7573E8676964E7723/",
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1856052392800108004/768BB33829A836E2AB5E6775A22271BE77585D4A/",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/an4dcjwe6rf3c8gur4u5y/4e7eb6bb1d6c4e91a5d19b42d6c5da6b.jpg?rlkey=b4i4dn7h8pli3b6cdr9wys4da&dl=0",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0807zmoyn9hdgxttx1nnk/c4a7154ddb4e4aa898fd19fbc38ca4ae.jpg?rlkey=5pat8gebbzrh8l3ht8f2m4kur&dl=0",
           "NumHeight": 3,
           "NumWidth": 3,
           "Type": 0,
           "UniqueBack": true
         }
       },
-      "Description": "The Urchin",
+      "Description": "漂泊者.",
       "DragSelectable": true,
       "GMNotes": "{\n  \"id\": \"01005\",\n  \"alternate_ids\": [\n    \"01505\"\n  ],\n  \"type\": \"Investigator\",\n  \"class\": \"Survivor\",\n  \"traits\": \"Drifter.\",\n  \"willpowerIcons\": 4,\n  \"intellectIcons\": 3,\n  \"combatIcons\": 1,\n  \"agilityIcons\": 4,\n  \"cycle\": \"Core\",\n  \"extraToken\": \"None\",\n  \"signatures\": [\n    {\n      \"01014\": 1,\n      \"01015\": 1,\n      \"90038\": 1,\n      \"90039\": 1,\n      \"90040\": 1\n    }\n  ]\n}",
       "GUID": "11bcb3",
@@ -80,7 +80,7 @@
       "LuaScriptState": "",
       "MeasureMovement": false,
       "Name": "Card",
-      "Nickname": "Wendy Adams",
+      "Nickname": "溫蒂·亞當斯",
       "SidewaysCard": true,
       "Snap": true,
       "Sticky": true,

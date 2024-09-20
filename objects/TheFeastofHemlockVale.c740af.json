@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "the_feast_of_hemlock_vale",
+  "GMNotes": "campaigns/the_feast_of_hemlock_vale.json",
   "GUID": "c740af",
   "Grid": true,
   "GridProjection": false,
@@ -56,7 +56,7 @@
   "Transform": {
     "posX": 20.6,
     "posY": 1.481,
-    "posZ": -78,
+    "posZ": -91,
     "rotX": 0,
     "rotY": 270,
     "rotZ": 0,

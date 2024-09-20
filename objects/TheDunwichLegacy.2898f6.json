@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "the_dunwich_legacy",
+  "GMNotes": "campaigns/dunwich_legacy.json",
   "GUID": "2898f6",
   "Grid": true,
   "GridProjection": false,

@@ -33,7 +33,7 @@
   },
   "Description": "Scenario Pack",
   "DragSelectable": true,
-  "GMNotes": "blob_that_ate_everything",
+  "GMNotes": "scenarios/blob_that_ate_everything.json",
   "GUID": "4dee5a",
   "Grid": true,
   "GridProjection": false,

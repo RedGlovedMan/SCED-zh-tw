@@ -14,15 +14,15 @@
   "CustomDeck": {
     "8434": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1814412497119606436/4C276FC15C46EEB0C65BAE449E7D94445B3E1B57/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1814412497119606067/D4B307834101CF1589A9A9AEEC4CE2F65E7DF02F/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/rbb6ykau73cy4wlhep2vi/aa1596c9205b4e50ab77a8aa3b72ad1d.jpg?rlkey=6iqusve00uwspqfg6uc4b501v&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/41bye0pkyc7ymw3wgjec3/bdc2b870343143e896879ffa0ee0dcef.jpg?rlkey=5acg4h6zpg4cipdijuwossn11&dl=0",
       "NumHeight": 2,
       "NumWidth": 4,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Butler",
+  "Description": "助理.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/CarsonSinclair.dc96d1.gmnotes",
   "GUID": "dc96d1",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Carson Sinclair",
+  "Nickname": "卡森·辛克萊",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

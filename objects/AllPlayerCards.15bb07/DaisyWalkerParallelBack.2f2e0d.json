@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2739": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1017195287736569204/9F5F294127B638FECFF0BC88A0F93387AF994431/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1011562618093845971/A678BD374EC4DE672206B5EF7EB57DC885BC839C/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/g70wpka9bv634uyeihhdm/23ffb4b0a7414a53989a02ad1ad02d7f.jpg?rlkey=0oxd8oh3om6j54rc539ndpmku&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/tez303cpn6bw48l7shgmh/172ff84a3b4e4dfdb33ccdac0af12f9d.jpg?rlkey=4bauyoavrpcpalcbhqfif629m&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Librarian",
+  "Description": "米斯卡塔尼克.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/DaisyWalkerParallelBack.2f2e0d.gmnotes",
   "GUID": "2f2e0d",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Daisy Walker (Parallel Back)",
+  "Nickname": "黛西·沃克",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

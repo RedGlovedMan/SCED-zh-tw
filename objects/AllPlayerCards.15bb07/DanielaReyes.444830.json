@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3795": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2424696374430578166/C21CC0E4ADE06C11419F36BAEDED0BDBFF8DE5E3/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2424696374430578395/F97B770FB90EA18B46F58614CCE0016406E3E777/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/ru73vbz72kmmzl7obfzlc/0b8a2f8ec3604ef2883fb57bfdeab25b.jpg?rlkey=w6if2x37xtlcqx9d10p9rblnr&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/oltb6ar2kt9wwrmrf0yhd/7b38074c71984bfda0514b4e1cd10983.jpg?rlkey=6pppt4z9v1agh49yel3qtdp6s&dl=0",
       "NumHeight": 2,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Mechanic",
+  "Description": "經營者.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/DanielaReyes.444830.gmnotes",
   "GUID": "444830",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Daniela Reyes",
+  "Nickname": "丹妮拉·雷耶絲",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

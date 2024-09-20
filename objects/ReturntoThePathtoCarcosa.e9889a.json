@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "return_to_tptc",
+  "GMNotes": "campaigns/return_to_tptc.json",
   "GUID": "e9889a",
   "Grid": true,
   "GridProjection": false,

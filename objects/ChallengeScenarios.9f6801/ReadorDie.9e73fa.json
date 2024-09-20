@@ -33,7 +33,7 @@
   },
   "Description": "Challenge Scenario",
   "DragSelectable": true,
-  "GMNotes": "challenge_read_or_die",
+  "GMNotes": "scenarios/challenge_read_or_die.json",
   "GUID": "9e73fa",
   "Grid": true,
   "GridProjection": false,

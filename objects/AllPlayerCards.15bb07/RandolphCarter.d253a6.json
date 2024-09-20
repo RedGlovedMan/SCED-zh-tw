@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4525": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/778493383646802545/EF89145CA7EEC1746A59CCBDDEE52526997C5DED/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/som9f38huqe3u5pfdy1tm/7e168e37a3fa42d8b98785ff6bb5c55e.jpg?rlkey=equwvsz9jwhf2k6ijlzsfzfo7&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Chained to the Waking World",
+  "Description": "盟友. 入夢者.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/RandolphCarter.d253a6.gmnotes",
   "GUID": "d253a6",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Randolph Carter",
+  "Nickname": "倫道夫·卡特",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

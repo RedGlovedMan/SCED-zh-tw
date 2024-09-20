@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2928": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025943109/9C5481E6DFEACD450C5522F884E615482281DDB1/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/qxqj7iqoln2mxbjt3agz2/cfaf521f8ac548acbd78f97a54ef0312.jpg?rlkey=oik3dwldldsu64bj6h7qbsb3g&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "策略. 技巧.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/WarningShot.ec38db.gmnotes",
   "GUID": "ec38db",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Warning Shot",
+  "Nickname": "鳴槍示警",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

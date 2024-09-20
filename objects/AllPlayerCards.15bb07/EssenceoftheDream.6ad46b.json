@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3799": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025943833/DE98A03934DF8FF5B3CF6C53143B15BFC3ED7341/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d9y6ug3jros2poz93c2bd/2cc0c53a9ecd470888d0796280e7fa44.jpg?rlkey=mbiobndrsw4hj9euax9pzz3y7&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "精通. 專家.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/EssenceoftheDream.6ad46b.gmnotes",
   "GUID": "6ad46b",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Essence of the Dream",
+  "Nickname": "夢的本質",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

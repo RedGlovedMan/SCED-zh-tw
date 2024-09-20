@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2717": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1011562618093845464/80687C9319FA2015F3D9F7CBEB4C55FBF045B27D/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1011562618093845971/A678BD374EC4DE672206B5EF7EB57DC885BC839C/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/qrmbkruxk6jnimfsr82y0/502c2c5e4e394b56b98a6f2db62d5df2.jpg?rlkey=wxap3vtslrwj2wbxm1ii3aohb&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/tez303cpn6bw48l7shgmh/172ff84a3b4e4dfdb33ccdac0af12f9d.jpg?rlkey=4bauyoavrpcpalcbhqfif629m&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Haunted",
+  "Description": "詛咒縈繞. 漂泊者.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/CalvinWright.b02a1e.gmnotes",
   "GUID": "b02a1e",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Calvin Wright",
+  "Nickname": "加爾文·懷特",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

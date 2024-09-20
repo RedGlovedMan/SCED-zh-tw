@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5534": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132672810/20E21AC471D7E5E1545F0EAE635A093718D4C7CF/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132672550/E5E1C8EE53C7692025E048F0A04BE98D6FA17111/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tpgzo9fi0utbllg9hat8r/2442b2ac216d44539c1ba5a260a0e02c.jpg?rlkey=scbsog747sd9fl6t6dgekx93g&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/qzngsbzho1jhjxk7fclx3/90e50adbc95e426186d04cca2f979dd0.jpg?rlkey=6kbj0jbletdgogq2wzxnbe4jp&dl=0",
       "NumHeight": 2,
       "NumWidth": 3,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Nun",
+  "Description": "信徒. 祝福.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/SisterMary.617aeb.gmnotes",
   "GUID": "617aeb",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Sister Mary",
+  "Nickname": "瑪麗修女",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

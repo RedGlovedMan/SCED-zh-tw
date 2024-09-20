@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5493": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1537373727958826520/EE54EF6510734FC86ADD47E84DB253493A2F87B7/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/osnkt5t5b504kkb07y4u5/beec47ea63744bbd96cbbe1640df71d9.jpg?rlkey=a377ceizhk0xsul2xg15j0e8u&dl=0",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "盟友. 米斯卡塔尼克.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/EldritchSophist.f6b1b6.gmnotes",
   "GUID": "f6b1b6",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "CardCustom",
-  "Nickname": "Eldritch Sophist",
+  "Nickname": "驚悚賢人",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

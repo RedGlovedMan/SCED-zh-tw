@@ -33,7 +33,7 @@
   },
   "Description": "Barkham Horror",
   "DragSelectable": true,
-  "GMNotes": "meddling_of_meowlathotep",
+  "GMNotes": "scenarios/meddling_of_meowlathotep.json",
   "GUID": "d02940",
   "Grid": true,
   "GridProjection": false,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5388": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1546381162227145538/0F253FC5301911273C32210992261DD1D2EBB578/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/jxm9m4h4ygykzw00emzyh/dcf8c83129054307a66b6a0b5a9f7aa8.jpg?rlkey=otooou6l9kpk4senv6c4iumcx&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "道具. 書籍.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/Encyclopedia.dbb0e0.gmnotes",
   "GUID": "dbb0e0",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Encyclopedia",
+  "Nickname": "百科全書",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

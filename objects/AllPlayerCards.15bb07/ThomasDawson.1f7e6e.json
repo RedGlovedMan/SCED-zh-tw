@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3698": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Soldier in a New War",
+  "Description": "盟友. 特工. 老兵.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/ThomasDawson.1f7e6e.gmnotes",
   "GUID": "1f7e6e",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Thomas Dawson",
+  "Nickname": "托馬斯·道森",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

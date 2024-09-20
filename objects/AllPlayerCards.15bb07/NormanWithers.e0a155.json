@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3795": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2424696374430578166/C21CC0E4ADE06C11419F36BAEDED0BDBFF8DE5E3/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2424696374430578395/F97B770FB90EA18B46F58614CCE0016406E3E777/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/ru73vbz72kmmzl7obfzlc/0b8a2f8ec3604ef2883fb57bfdeab25b.jpg?rlkey=w6if2x37xtlcqx9d10p9rblnr&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/oltb6ar2kt9wwrmrf0yhd/7b38074c71984bfda0514b4e1cd10983.jpg?rlkey=6pppt4z9v1agh49yel3qtdp6s&dl=0",
       "NumHeight": 2,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Astronomer",
+  "Description": "米斯卡塔尼克.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/NormanWithers.e0a155.gmnotes",
   "GUID": "e0a155",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Norman Withers",
+  "Nickname": "諾曼·威瑟斯",
   "SidewaysCard": true,
   "Snap": true,
   "States": {
@@ -57,15 +57,15 @@
       "CustomDeck": {
         "4409": {
           "BackIsHidden": true,
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1697277388086987553/817496FCFFBF0B8ADCE3B09A9671D6F549BE5881/",
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1697277388086987329/F381129808CB4D0ECD8508777784ECD8B7C1691F/",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/5z6yptf0tfi3punjmbtv5/a8ad8dde535b43afb9e919a4494a7731.jpg?rlkey=osw9il6naw9n06zak8idhx9iy&dl=0",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/rec8kei6jf76ghb2h03qy/fff051082c3d488fa3c7f5530fdac10a.jpg?rlkey=1nbaqze42r2j9n20x2kfuody4&dl=0",
           "NumHeight": 2,
           "NumWidth": 2,
           "Type": 0,
           "UniqueBack": true
         }
       },
-      "Description": "The Astronomer",
+      "Description": "米斯卡塔尼克.",
       "DragSelectable": true,
       "GMNotes": "{\n  \"id\": \"08004\",\n  \"alternate_ids\": [\n    \"98007\"\n  ],\n  \"type\": \"Investigator\",\n  \"class\": \"Seeker\",\n  \"traits\": \"Miskatonic.\",\n  \"willpowerIcons\": 4,\n  \"intellectIcons\": 5,\n  \"combatIcons\": 2,\n  \"agilityIcons\": 1,\n  \"cycle\": \"Edge of the Earth\",\n  \"signatures\": [\n    {\n      \"08005\": 1,\n      \"08006\": 1,\n      \"98008\": 1,\n      \"98009\": 1\n    }\n  ]\n}",
       "GUID": "49634c",
@@ -80,7 +80,7 @@
       "LuaScriptState": "",
       "MeasureMovement": false,
       "Name": "Card",
-      "Nickname": "Norman Withers (promo version)",
+      "Nickname": "諾曼·威瑟斯",
       "SidewaysCard": true,
       "Snap": true,
       "Sticky": true,

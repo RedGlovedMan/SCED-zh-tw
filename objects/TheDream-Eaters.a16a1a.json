@@ -33,7 +33,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "the_dream_eaters",
+  "GMNotes": "campaigns/dream_eaters.json",
   "GUID": "a16a1a",
   "Grid": true,
   "GridProjection": false,

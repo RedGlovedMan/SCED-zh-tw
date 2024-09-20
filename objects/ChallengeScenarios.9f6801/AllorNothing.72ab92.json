@@ -33,7 +33,7 @@
   },
   "Description": "Challenge Scenario",
   "DragSelectable": true,
-  "GMNotes": "challenge_all_or_nothing",
+  "GMNotes": "scenarios/challenge_all_or_nothing.json",
   "GUID": "72ab92",
   "Grid": true,
   "GridProjection": false,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5359": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1655599785038868958/4F366892FB57AF3841513790E41E15D85E9DC211/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1655599785038868372/5C2FC3F391C6D3B287C38B875F83629110163282/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/ih578s36cvk6do3ke7wfd/6a1e87d42508493cb1f2e08b91c4c3fc.jpg?rlkey=73bw5sqh85ox2qw27otjw6av3&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/757ql83rlxvp43qbureii/068f9ed1ae214ed3904cba1cd8aaa5ca.jpg?rlkey=lw5cu1q4hgz7zqxsjxgr9rlck&dl=0",
       "NumHeight": 2,
       "NumWidth": 4,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Waitress",
+  "Description": "法師.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/AgnesBakerParallelBack.909f30.gmnotes",
   "GUID": "909f30",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Agnes Baker (Parallel Back)",
+  "Nickname": "艾格尼絲·貝克",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

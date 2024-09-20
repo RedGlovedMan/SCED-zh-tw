@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4501": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627737648/F371339538812F68E38AAC0D520C525250DAC5C0/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627737050/3CFF9E3825033909543AD1CF843361D9243538EE/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/xm47xr9q3kfuk63gw0hqt/7ec0c12c18d34a98b9523f5cb3cd3df7.jpg?rlkey=lovzanirqt5181leu2dzufwos&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/9jg015s0gtg5sikdk2sh1/5aea23b1cbf94788a011a977a2663783.jpg?rlkey=ptadc1fpbym1rbs9zx31dpjpy&dl=0",
       "NumHeight": 2,
       "NumWidth": 4,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Dilettante",
+  "Description": "漂泊者.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/JennyBarnes.9058d3.gmnotes",
   "GUID": "9058d3",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Jenny Barnes",
+  "Nickname": "珍妮·巴恩斯",
   "SidewaysCard": true,
   "Snap": true,
   "States": {
@@ -57,15 +57,15 @@
       "CustomDeck": {
         "2736": {
           "BackIsHidden": true,
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1011562618093845464/80687C9319FA2015F3D9F7CBEB4C55FBF045B27D/",
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1011562618093845971/A678BD374EC4DE672206B5EF7EB57DC885BC839C/",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/qrmbkruxk6jnimfsr82y0/502c2c5e4e394b56b98a6f2db62d5df2.jpg?rlkey=wxap3vtslrwj2wbxm1ii3aohb&dl=0",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/tez303cpn6bw48l7shgmh/172ff84a3b4e4dfdb33ccdac0af12f9d.jpg?rlkey=4bauyoavrpcpalcbhqfif629m&dl=0",
           "NumHeight": 7,
           "NumWidth": 10,
           "Type": 0,
           "UniqueBack": true
         }
       },
-      "Description": "The Dilettante",
+      "Description": "漂泊者.",
       "DragSelectable": true,
       "GMNotes": "{\n  \"id\": \"02003\",\n  \"alternate_ids\": [\n    \"98001\"\n  ],\n  \"type\": \"Investigator\",\n  \"class\": \"Rogue\",\n  \"traits\": \"Drifter.\",\n  \"willpowerIcons\": 3,\n  \"intellectIcons\": 3,\n  \"combatIcons\": 3,\n  \"agilityIcons\": 3,\n  \"cycle\": \"The Dunwich Legacy\",\n  \"extraToken\": \"None\",\n  \"signatures\": [\n    {\n      \"02010\": 1,\n      \"02011\": 1,\n      \"90085\": 1,\n      \"90086\": 1,\n      \"98002\": 1,\n      \"98003\": 1\n    }\n  ]\n}",
       "GUID": "b954f6",
@@ -80,7 +80,7 @@
       "LuaScriptState": "",
       "MeasureMovement": false,
       "Name": "Card",
-      "Nickname": "Jenny Barnes (promo version)",
+      "Nickname": "珍妮·巴恩斯",
       "SidewaysCard": true,
       "Snap": true,
       "Sticky": true,

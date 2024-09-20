@@ -14,15 +14,15 @@
   "CustomDeck": {
     "1173": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2424696374430631817/A15FFE0907238AB578CFEB119974545A4408E3A1/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2424696374430631996/4C0628EA8BAEB615CBF9575C1B2F0389EED9C4B7/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/2n0rnpvq4dan40yzjibbb/6770a018b92047e0a9eaa64bf4244621.jpg?rlkey=uruk7k957l789r2b9zvdt12ab&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/5pz5j7t40r9g781qs7m2x/9be9493cce7d4f819d13051a5ca29f07.jpg?rlkey=j1oeipv26y0c0vvrav8c92smm&dl=0",
       "NumHeight": 2,
       "NumWidth": 4,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Countess",
+  "Description": "漂泊者. 社會名流.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/AlessandraZorzi.54eaa5.gmnotes",
   "GUID": "54eaa5",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Alessandra Zorzi",
+  "Nickname": "亞莉珊卓‧佐爾齊",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

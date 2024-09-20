@@ -11,7 +11,7 @@
     "r": 0.69512
   },
   "ContainedObjects_order": [
-    "Damage.cd2a02"
+    "Custom_Token.cd2a02"
   ],
   "ContainedObjects_path": "Damagetokens.b0ef6c",
   "CustomMesh": {
@@ -28,7 +28,7 @@
       "SpecularIntensity": 0.05,
       "SpecularSharpness": 3.000001
     },
-    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/2424714310447304520/C242946D58154EB5F81733A922408623660BE86A/",
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1758068501357113311/C9A5F7E450A6845D0D09D7407AA38E9319697D74/",
     "MaterialIndex": 1,
     "MeshURL": "https://pastebin.com/raw/ALrYhQGb",
     "NormalURL": "",

@@ -32,7 +32,3 @@ end
 function deleteStarter(_, _, _)
   self.destruct()
 end
-
-function onDestroy()
-  tourManager.stopTourForAll()
-end

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3794": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1814412497119525055/928CCA871D837CB4FB8E847957747E1E56F14449/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/jfo1csgezuf3qb8hlbmbt/8953cc91933741c0bdda74f9b0eab05e.jpg?rlkey=x54y11fz5im3wzhqej9x8l5yk&dl=0",
       "NumHeight": 2,
       "NumWidth": 2,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "洞察.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/CaptivatingDiscovery.498bc8.gmnotes",
   "GUID": "498bc8",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Captivating Discovery",
+  "Nickname": "爆炸性發現",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

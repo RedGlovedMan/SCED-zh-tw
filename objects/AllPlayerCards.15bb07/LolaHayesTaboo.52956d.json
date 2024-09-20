@@ -14,15 +14,15 @@
   "CustomDeck": {
     "551": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2021607899142907490/4AAE686A793E66311FF78890309D20670A329D16/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2450601300753083072/7500D69C546D9FD62750C45062986AE34060A8B1/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/cqkvb3t2sbpw5bupvje8l/a841a71671ff4219b620a8b431bfa6c0.jpg?rlkey=n4oj57hn4wjf8bounpo3faot5&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/9v3czzor6uj1p5ccn0gqa/69badfeec5e64e379c0f5bcd0d76d4b2.jpg?rlkey=w1tomginj0pn3s9vciyet5glc&dl=0",
       "NumHeight": 2,
       "NumWidth": 2,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Actress",
+  "Description": "藝人.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/LolaHayesTaboo.52956d.gmnotes",
   "GUID": "52956d",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Lola Hayes (Taboo)",
+  "Nickname": "蘿拉·海耶斯 (Taboo)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

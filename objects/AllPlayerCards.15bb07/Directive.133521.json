@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5362": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706761486024/CC7FAD210F216229F1A721BF648855D156F052D5/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/3smye2k2acma0o6ns9zyx/f9bdc3901ed746e594adf3515bee739a.jpg?rlkey=c5xf4zgiwir6dbrdcc92k2cy5&dl=0",
       "NumHeight": 2,
       "NumWidth": 4,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Due Diligence",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/Directive.133521.gmnotes",
   "GUID": "133521",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Directive",
+  "Nickname": "指令",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
