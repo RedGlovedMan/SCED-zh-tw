@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2115061845812962486/A68B8BF7E4862F21369DAC4A37D813EC664EAC34/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/qsrzpjzsy8md1usolgyjd/90ca3c7f2bd84517a7ca6943355af335.jpg?rlkey=bbp5nmb47wd8kc0xqkkiu513x&dl=0",
       "NumHeight": 6,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "聖約. 祝福.",
   "DragSelectable": true,
   "GMNotes_path": "AllPlayerCards.15bb07/AncientCovenant2Taboo.e01cc7.gmnotes",
   "GUID": "e01cc7",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Ancient Covenant (2) (Taboo)",
+  "Nickname": "古代聖約 (2) (Taboo)",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
